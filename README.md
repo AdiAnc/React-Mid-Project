@@ -23,3 +23,7 @@ email contains that text
 
  - When Clicking on the ID label, the user region will be colored in orange and the user’s posts and todos
 are presented a
+
+**Case 6 : Add new ToDo**
+When Press on “Add” above the “ToDo” list, the list will be replaced with a place for adding a new
+Todo. A press on “cancel” will bring back the “ToDO”
