@@ -30,3 +30,7 @@ are presented a
 
 - When Press on “Add” above the “ToDo” list, the list will be replaced with a place for adding a new
 Todo. A press on “cancel” will bring back the “ToDO”
+
+**Case 7 : Add new Post**
+- When Press on “Add” above the “Posts” list, the list will be replaced with a place for adding a new Post. 
+A press on “cancel” will bring back the “ToDO” list.
