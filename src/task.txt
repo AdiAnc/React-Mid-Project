@@ -1,0 +1,3 @@
+1. fetch the users and the data 
+2. for any user > create a windows and forward relevant informetion
+3. 
