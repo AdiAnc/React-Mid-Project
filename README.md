@@ -1,9 +1,8 @@
 # React-Mid-Project
-Web applicatio
+Web application for User management Task &amp; Posts
 
 https://github.com/AdiAnc/React-Mid-Project/assets/107412958/4ecaa7a6-b524-4fd3-803d-3e57250188e5
 
-n for User management Task &amp; Posts
 
 
 
