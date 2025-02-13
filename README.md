@@ -1,10 +1,13 @@
 # React-Mid-Project
 Web application for User management Task &amp; Posts
 
+## 🔗 Live Demo  
+[Click here to view the live app 🚀](https://userstask-gg0vdg3j0-adi-ancelovits-projects.vercel.app)
+
+
 https://github.com/AdiAnc/React-Mid-Project/assets/107412958/4ecaa7a6-b524-4fd3-803d-3e57250188e5
 
 
-🔗 Live Demo
 
 **Case 1 - Application Starts**
 
